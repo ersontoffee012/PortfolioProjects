@@ -146,5 +146,3 @@ df10
 sns.set_theme(style="darkgrid")
 
 sns.lineplot(x='timestamp', y='quote.USD.price', data = df10)
-
-f0839937-1774-4d68-9441-7d024880f283
