@@ -138,3 +138,9 @@ def send_mail():
         msg
      
     )
+jupyter nbconvert --to script your_notebook.ipynb
+jupyter nbconvert --to notebook your_notebook.py
+
+git add your_notebook.ipynb
+git commit -m "Fixed notebook formatting"
+git push
