@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Data Analyst Portfolio Project Repository
 
 A collection of data analysis projects demonstrating skills in data cleaning, visualization, and statistical analysis.
 
