@@ -7,7 +7,7 @@ PowerBI: Cleaning raw data using POWER QUERY and creating visualizations.
 3. Building Visualization: Creating visualizations using most popular charts.
 4. Organizing Visualization: Organizing the dashboard resizing charts and changing fonts and titles.
 5. Checking and Finalizing: Looking for minor changes.
-6. Publising
+6. Publising.
 
 Sadly I only gave the free version.
 # You can download the files above so you can check it on your own and create your own visuals. :D
