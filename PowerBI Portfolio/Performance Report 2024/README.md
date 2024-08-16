@@ -1,5 +1,5 @@
 # Perfomance Report 2024
-# A condensed, dynamic perfomance report that utilizes SWITCH measures and conditional formatting.
+# A condensed, dynamic performance report that utilizes SWITCH measures and conditional formatting.
 
 1. Data | Power Query & Virtual Tables: From EXCEL into POWER QUERY making minor changes and building virtual tables for the model.
 2. Model | Measures & Calculated Column: Building any DAX MEASURES or any calculated columns.
