@@ -9,7 +9,7 @@ The "Bike Sales Dashboard" is a comprehensive visual tool designed to provide in
 
 3. Customer Commute: This line chart examines the distance customers commute and how it correlates with bike purchases. The distance categories range from 0-1 miles to 10+ miles. The chart differentiates between customers who purchased bikes (Yes) and those who did not (No), offering insights into commuting patterns and purchase behavior.
 
-# Each of these visualizations is designed to provide actionable insights, allowing the user to analyze how various factors like income, age, and commuting distance influence bike sales across different regions and demographic segments.
+Each of these visualizations is designed to provide actionable insights, allowing the user to analyze how various factors like income, age, and commuting distance influence bike sales across different regions and demographic segments.
 
 # Feel free to download and create your own Pivot Table and Dashboard. :D
 # I included the raw file so you can explore the data.
