@@ -1,6 +1,8 @@
-# The "Bike Sales Dashboard" is a comprehensive visual tool designed to provide insights into customer demographics and purchasing patterns in relation to bike sales. The dashboard includes interactive filters on the left-hand side that allow users to segment data by Marital Status (Married, Single), Region (Europe, North America, Pacific), and Education level (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
+# Bike Sales Dashboard
 
-# Key Components:
+The "Bike Sales Dashboard" is a comprehensive visual tool designed to provide insights into customer demographics and purchasing patterns in relation to bike sales. The dashboard includes interactive filters on the left-hand side that allow users to segment data by Marital Status (Married, Single), Region (Europe, North America, Pacific), and Education level (Bachelors, Graduate Degree, High School, Partial College, Partial High School).
+
+Key Components:
 1. Average Income Per Purchase: This bar chart displays the average income of customers who purchased bikes, segmented by gender (Female, Male) and purchase status (Yes, No). The chart reveals income disparities between genders and whether or not they made a purchase.
 
 2. Customer Age Brackets: This line chart shows the distribution of bike purchases across different age brackets (Adolescent, Middle Age, Old). It compares the number of purchases (Yes, No) within each age group, highlighting which age bracket is most likely to purchase a bike.
