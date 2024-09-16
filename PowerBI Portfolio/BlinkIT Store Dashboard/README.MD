@@ -9,8 +9,11 @@ KPI's Requirements
 
 Chart's Requirements
 1. Total Sales by Fat Content:
+
 Objective: Analyze the impact of fat content on total sales.
+
 Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+
 Chart Type: Donut Chart.
 2. Total Sales by Item Type:
 Objective: Identify the perfomance of different item types in terms of sales.
